@@ -1,1 +1,6 @@
-{}
+{
+    "env": {
+        "userName": "minegg@seznam.cz",
+        "password": "123Test123"
+    }
+}
